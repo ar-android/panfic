@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PREMI ASURANSI KENDARAAN BERMOTOR</string>
+    <string name="title_activity_splash">Panfic MV Wilayah 3</string>
+    <string name="title_activity_main">Panfic MV Wilayah 3</string>
+    <string name="title_activity_asuransi">Asuransi</string>
+    <string name="title_activity_hitung_premi">HitungPremi</string>
+    <string name="resiko_baris_0">Resiko Sendiri</string>
+    <string name="resiko_baris_1">casco : Rp. 300.000,-/kejadian</string>
+    <string name="resiko_baris_2">EQVET, FW, SRCC, TS : 10% dari klaim min Rp. 500.000,-</string>
+    <string name="resiko_baris_3">TPL, PAD, PAP : NIL</string>
+    <string name="resiko_baris_4">TLO : 5% dari harga pertanggungan</string>
+    <string name="terms">Perhitungan ini premi dapat berubah sewaktu - waktu tergantung pad kebijakan PT. Pan Pacific Insurance</string>
+    <string name="title_activity_list_bengkel">ListBengkel</string>
+    <string name="title_activity_formulir_klaim">FormulirKlaim</string>
+    <string name="title_activity_hasil_hitung_premi">HasilHitungPremi</string>
+    <string name="title_activity_camera">CameraActivity</string>
+    <string name="title_activity_load_gallery">LoadGallery</string>
+
+</resources>
