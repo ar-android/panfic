@@ -50,11 +50,6 @@
 		"logo":"https://github.com/ar-android/panfic/raw/master/Panfic/gen/com/ocit/logo_tv_antv.png"
 	},
 	{
-		"name":"BEIN SPORT",
-		"url":"http://128.199.187.12/live/tv3/index.m3u8",
-		"logo":"https://github.com/ar-android/panfic/raw/master/Panfic/gen/com/ocit/logo_tv_beinsport.png"
-	},
-	{
 		"name":"GlobalTV",
 		"url":"http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/index.m3u8",
 		"logo":"https://github.com/ar-android/panfic/raw/master/Panfic/gen/com/ocit/logo_tv_globaltv.png"
