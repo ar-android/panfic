@@ -1,0 +1,67 @@
+[
+	{
+		"name":"RCTI",
+		"url":"http://edge.okeinfo.net/stream-epl/rcti/playlist.m3u8"
+	},
+	{
+		"name":"SCTV",
+		"url":"http://128.199.187.12/live/tv1/index.m3u8"
+	},
+	{
+		"name":"iNews",
+		"url":"http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/index.m3u8"
+	},
+	{
+		"name":"TransTV",
+		"url":"http://188.166.209.95/live/tv1/index.m3u8"
+	},
+	{
+		"name":"Trans 7",
+		"url":"http://128.199.110.53/live/tv1/index.m3u8"
+	},
+	{
+		"name":"Indosiar",
+		"url":"http://128.199.142.69/live/tv1/index.m3u8"
+	},
+	{
+		"name":"TV One",
+		"url":"http://128.199.187.12/live/tv3/index.m3u8"
+	},
+	{
+		"name":"Berita Satu",
+		"url":"http://stream.beritasatu.com/news.m3u8"
+	},
+	{
+		"name":"MetroTV",
+		"url":"http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8"
+	},
+	{
+		"name":"ANTV",
+		"url":"http://188.166.209.95/live/tv2/index.m3u8"
+	},
+	{
+		"name":"BEIN SPORT",
+		"url":"http://128.199.187.12/live/tv3/index.m3u8"
+	},
+	{
+		"name":"GlobalTV",
+		"url":"http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/index.m3u8"
+	},
+	{
+		"name":"MNC TV",
+		"url":"http://edge.okeinfo.net/stream-epl/mnctv/playlist.m3u8"
+	},
+	{
+		"name":"Kompas TV",
+		"url":"http://202.137.11.52/jakarta/offair.sdp/playlist.m3u8"
+	},
+	{
+		"name":"BLOOMBERGTV",
+		"url":"http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M440.m3u8"
+	},
+	{
+		"name":"RTV",
+		"url":"rtmp://203.153.97.35/live/livestream"
+	}
+]
+
